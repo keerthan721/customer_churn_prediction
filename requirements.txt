@@ -1,11 +1,11 @@
-tensorflow
+tensorflow==2.15.0
 streamlit
 matplotlib
 scikit-learn
 tensorboard
-numpy==2.0.2
-pandas==2.3.2
+numpy==1.26.4
+pandas==2.2.2
 python-dateutil==2.9.0.post0
-pytz==2025.2
+pytz==2024.2
 six==1.17.0
-tzdata==2025.2
+tzdata==2024.2
